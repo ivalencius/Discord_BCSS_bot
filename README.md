@@ -15,8 +15,8 @@ Workshop will take place on Thursday, December 3 at 7:00 pm est
 
 ## Learning Resources
 * [DiscordJS Guide](https://discordjs.guide/) is your new best friend! Say hi!
-* [JavaScript Guides](https://discordjs.guide/#before-you-begin)
-* [DiscordJS Docs](https://discord.js.org/#/docs/main/stable/general/welcome)
+* [JavaScript Guides](https://discordjs.guide/#before-you-begin) are also found on the DiscordJS Guide.
+* [DiscordJS Docs](https://discord.js.org/#/docs/main/stable/general/welcome) are useful too.
 
 ## Inspiration
 * [Top Discord Bots](https://top.gg/list/top)
