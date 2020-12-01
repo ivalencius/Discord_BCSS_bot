@@ -9,6 +9,9 @@ Workshop will take place on Thursday, December 3 at 7:00 pm est
 * Install [NodeJS](https://nodejs.org/en/)
 
 ## In-Workshop Links:
+* [Workshop Discord Server](https://discord.gg/esfz8D6jFc)
+* [Discord Developers](https://discord.com/developers)
+* Add-Bot Link: https://discord.com/oauth2/authorize?client_id=yourClientId&scope=bot
 
 ## Learning Resources
 * [DiscordJS Guide](https://discordjs.guide/)
