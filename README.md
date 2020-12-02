@@ -12,6 +12,7 @@ Workshop will take place on Thursday, December 3 at 7:00 pm est
 * [Workshop Discord Server](https://discord.gg/esfz8D6jFc)
 * [Discord Developers](https://discord.com/developers)
 * Add-Bot Link: https://discord.com/oauth2/authorize?client_id=yourClientId&scope=bot
+* [CSS Slack](https://bccss.us4.list-manage.com/track/click?u=1b70be498004c115d153aaeeb&id=de60d899ea&e=bf8a19a715)
 
 ## Learning Resources
 * [DiscordJS Guide](https://discordjs.guide/) is your new best friend! Say hi!
@@ -20,3 +21,6 @@ Workshop will take place on Thursday, December 3 at 7:00 pm est
 
 ## Inspiration
 * [Top Discord Bots](https://top.gg/list/top)
+
+## Questions?
+* Contact me at fernanhc@bc.edu or ping me on Slack!
