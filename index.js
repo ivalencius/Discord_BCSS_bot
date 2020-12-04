@@ -7,5 +7,9 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
+client.on('message', () => {
+	console.log('Hello World')
+});
+
 // log your bot in to Discord using its unique token
-client.login('your-token-goes-here');
+client.login('Nzg0MjA4ODE0NzY4NjUyMjg5.X8l9Xw.91t1UX3Ovdo6heXStuiVsrucixI');
